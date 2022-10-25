@@ -1,3 +1,1 @@
-# Bamako_samplesite_imitation
-# sample_site_imitation_bamako_example
 # sample_site_imitation_bamako_example
